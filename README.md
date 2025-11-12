@@ -5,7 +5,7 @@ This repository contains the analysis and supporting materials for the paper tha
 ## Paper
 
 - **Title:** Board gender diversity and environmental performance: An industries perspective  
-- **Authors:** Jessie Lu, Irene M. Herremans  
+- **Authors:** Jing Lu, Irene M. Herremans  
 - **Journal:** Business Strategy and the Environment (2019)  
 - **Link:** [https://doi.org/10.1002/bse.2326](https://doi.org/10.1002/bse.2326)
 
