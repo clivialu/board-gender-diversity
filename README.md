@@ -21,9 +21,9 @@ Overall, we find that greater gender diversity on boards is associated with stro
 ## Paper Highlight:
 | # | **Why it matters** | **What the paper delivers** |
 |---|--------------------|-----------------------------|
-| **1** | **Settles the “mixed-evidence” debate.** Firms and scholars get conflicting signals on whether women directors help the planet. | Analyses **4,872 S&P 1500 firm-years (2009-15)** and finds a *robust* positive link between gender diversity and environmental performance, even after PSM, system-GMM and 3SLS endogeneity checks. |
-| **2** | **Context flips the switch.** Diversity might not pay off equally everywhere. | Shows the effect is **significant only in “more environmentally-impacting” sectors** (energy, mining, manufacturing) and vanishes in service/retail.  |
-| **3** | **Explains *how* women add value.** Counting seats isn’t enough. | Bio-content analysis reveals **female directors are ~4× more likely than males to bring environmental, HR, regulatory and public-affairs expertise** to the same board.  |
+| **1** | **Settles the “mixed-evidence” debate.** Firms and scholars get conflicting signals on whether women directors help the planet. | Analyses 4,872 S&P 1500 firm-years (2009-15) and finds a robust positive link between gender diversity and environmental performance, even after PSM, system-GMM and 3SLS endogeneity checks. |
+| **2** | **Context flips the switch.** Diversity might not pay off equally everywhere. | Shows the effect is significant only in “more environmentally-impacting” sectors (energy, mining, manufacturing) and vanishes in service/retail.  |
+| **3** | **Explains how women add value.** Counting seats isn’t enough. | Bio-content analysis reveals female directors are ~4× more likely than males to bring environmental, HR, regulatory and public-affairs expertise to the same board.  |
 | **4** | **Best-in-class causal design.** | Combines interaction terms with PSM, dynamic panels and 3SLS to beat reverse-causality concerns and isolate diversity’s true impact.  |
 | **5** | **Resource-dependence theory in action.** | Demonstrates that gender-balanced boards widen advice, legitimacy and information channels—boosting green strategy where risk is highest.  |
 
